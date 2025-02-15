@@ -1,0 +1,15 @@
+@import '../../styles/settings.scss';
+
+.cardForm {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;  // Formularz zajmuje 80% dostępnej szerokości
+}
+
+.inputWrapper {
+    width: 65%;
+}
+
+.inputWrapper input {
+    width: 100%;
+}
